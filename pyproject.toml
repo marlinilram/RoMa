@@ -9,7 +9,6 @@ authors = [
 requires-python = ">=3.9"
 dependencies = [
     "einops",
-    "fused-local-corr>=0.2.2 ; sys_platform == 'linux'",
     "h5py",
     "kornia",
     "loguru",
