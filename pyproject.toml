@@ -18,7 +18,7 @@ dependencies = [
     "opencv-python",
     "poselib>=2.0.4",
     "timm",
-    "torch>=2.5.1",
+    "torch>=2.4.1",
     "torchvision",
     "tqdm",
     "wandb",
